@@ -1,6 +1,6 @@
 # Stat 133, Fall 2019
 
-Private Repository for HW assignments of Stat 133 (Fall 2019)
+Private Repository for Workout assignments
 
 - Name: Your name (first last)
 - Github username: usrname
